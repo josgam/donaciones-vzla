@@ -1,0 +1,24 @@
+{
+  "name": "donaciones-vzla",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plataforma de donaciones y micro-mecenazgo para metas de venezolanos con Binance Pay y Supabase.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.2.15",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "^0.453.0",
+    "@supabase/supabase-js": "^2.45.6"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14"
+  }
+}
