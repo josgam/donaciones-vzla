@@ -4,7 +4,7 @@
   "private": true,
   "description": "Plataforma de donaciones y micro-mecenazgo para metas de venezolanos con Binance Pay y Supabase.",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3005",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
